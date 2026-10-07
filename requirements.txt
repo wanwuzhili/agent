@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langgraph
+langchain-community
+langchain-experimental
+
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+langchain-text-splitters
+chromadb
+pypdf
+
+python-dotenv
